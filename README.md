@@ -32,13 +32,13 @@ amazon-homepage-clone/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/amazon-homepage-clone.git
+git clone https://github.com/your-username/amazon_clone.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd amazon-homepage-clone
+cd amazon_clone
 ```
 
 3. Open `index.html` in your browser.
